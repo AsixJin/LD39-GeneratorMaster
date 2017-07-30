@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8b1dac5-1a5d-4aa9-b15f-a3cc04091be9" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="MindImage.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MindImage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="20" column="80" lean-forward="false" selection-start-line="20" selection-start-column="80" selection-end-line="20" selection-end-column="80" />
+              <folding>
+                <marker date="1501369152530" expanded="false" signature="6:100" ph="..." />
+                <marker date="1501369152530" expanded="true" signature="140:1674" ph="{...}" />
+                <marker date="1501369152530" expanded="true" signature="357:470" ph="{...}" />
+                <marker date="1501369152530" expanded="true" signature="519:543" ph="{...}" />
+                <marker date="1501369152530" expanded="true" signature="598:855" ph="{...}" />
+                <marker date="1501369152530" expanded="true" signature="633:670" ph="{...}" />
+                <marker date="1501369152530" expanded="true" signature="704:739" ph="{...}" />
+                <marker date="1501369152530" expanded="true" signature="774:810" ph="{...}" />
+                <marker date="1501369152530" expanded="true" signature="892:913" ph="{...}" />
+                <marker date="1501369152530" expanded="true" signature="949:975" ph="{...}" />
+                <marker date="1501369152530" expanded="true" signature="1002:1151" ph="{...}" />
+                <marker date="1501369152530" expanded="true" signature="1032:1088" ph="{...}" />
+                <marker date="1501369152530" expanded="true" signature="1182:1296" ph="{...}" />
+                <marker date="1501369152530" expanded="true" signature="1323:1670" ph="{...}" />
+                <marker date="1501369152530" expanded="true" signature="1342:1667" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MindManger.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MindManger.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+              <folding>
+                <marker date="1501455285697" expanded="false" signature="6:149" ph="..." />
+                <marker date="1501455285697" expanded="true" signature="190:2791" ph="{...}" />
+                <marker date="1501455285697" expanded="true" signature="661:1375" ph="{...}" />
+                <marker date="1501455285697" expanded="true" signature="1423:1430" ph="{...}" />
+                <marker date="1501455285697" expanded="true" signature="1484:1893" ph="{...}" />
+                <marker date="1501455285697" expanded="true" signature="1540:1621" ph="{...}" />
+                <marker date="1501455285697" expanded="true" signature="1621:1890" ph="{...}" />
+                <marker date="1501455285697" expanded="true" signature="1922:2421" ph="{...}" />
+                <marker date="1501455285697" expanded="true" signature="1994:2088" ph="{...}" />
+                <marker date="1501455285697" expanded="true" signature="2054:2084" ph="{...}" />
+                <marker date="1501455285697" expanded="true" signature="2107:2337" ph="{...}" />
+                <marker date="1501455285697" expanded="true" signature="2299:2333" ph="{...}" />
+                <marker date="1501455285697" expanded="true" signature="2453:2585" ph="{...}" />
+                <marker date="1501455285697" expanded="true" signature="2477:2501" ph="{...}" />
+                <marker date="1501455285697" expanded="true" signature="2501:2582" ph="{...}" />
+                <marker date="1501455285697" expanded="true" signature="2611:2789" ph="{...}" />
+                <marker date="1501455285697" expanded="true" signature="2629:2706" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MindColor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MindColor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding>
+                <marker date="1501368398551" expanded="false" signature="6:78" ph="..." />
+                <marker date="1501368398551" expanded="true" signature="101:152" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MindImage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MindManger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MindColor.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/MindManger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MindColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MindImage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MindManger.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LD39 - Running out of Power (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Unity Debug.Attach to Unity Editor" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8b1dac5-1a5d-4aa9-b15f-a3cc04091be9" name="Default" comment="" />
+      <created>1501354183925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501354183925</updated>
+      <workItem from="1501354186502" duration="7265000" />
+      <workItem from="1501391202337" duration="3385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10650000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MindImage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="80" lean-forward="false" selection-start-line="20" selection-start-column="80" selection-end-line="20" selection-end-column="80" />
+          <folding>
+            <marker date="1501369152530" expanded="false" signature="6:100" ph="..." />
+            <marker date="1501369152530" expanded="true" signature="140:1674" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="357:470" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="519:543" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="598:855" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="633:670" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="704:739" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="774:810" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="892:913" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="949:975" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="1002:1151" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="1032:1088" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="1182:1296" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="1323:1670" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="1342:1667" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MindColor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <marker date="1501368398551" expanded="false" signature="6:78" ph="..." />
+            <marker date="1501368398551" expanded="true" signature="101:152" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MindManger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="35" lean-forward="false" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+          <folding>
+            <marker date="1501455285697" expanded="false" signature="6:149" ph="..." />
+            <marker date="1501455285697" expanded="true" signature="190:2791" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="661:1375" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="1423:1430" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="1484:1893" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="1540:1621" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="1621:1890" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="1922:2421" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="1994:2088" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="2054:2084" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="2107:2337" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="2299:2333" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="2453:2585" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="2477:2501" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="2501:2582" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="2611:2789" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="2629:2706" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MindManger.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MindColor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <marker date="1501368398551" expanded="false" signature="6:78" ph="..." />
+            <marker date="1501368398551" expanded="true" signature="101:152" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MindManger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <folding>
+            <marker date="1501455285697" expanded="false" signature="6:149" ph="..." />
+            <marker date="1501455285697" expanded="true" signature="190:2791" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="661:1375" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="1423:1430" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="1484:1893" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="1540:1621" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="1621:1890" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="1922:2421" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="1994:2088" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="2054:2084" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="2107:2337" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="2299:2333" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="2453:2585" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="2477:2501" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="2501:2582" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="2611:2789" ph="{...}" />
+            <marker date="1501455285697" expanded="true" signature="2629:2706" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MindImage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="80" lean-forward="false" selection-start-line="20" selection-start-column="80" selection-end-line="20" selection-end-column="80" />
+          <folding>
+            <marker date="1501369152530" expanded="false" signature="6:100" ph="..." />
+            <marker date="1501369152530" expanded="true" signature="140:1674" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="357:470" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="519:543" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="598:855" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="633:670" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="704:739" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="774:810" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="892:913" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="949:975" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="1002:1151" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="1032:1088" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="1182:1296" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="1323:1670" ph="{...}" />
+            <marker date="1501369152530" expanded="true" signature="1342:1667" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
